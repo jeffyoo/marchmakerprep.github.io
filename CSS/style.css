@@ -1,0 +1,38 @@
+
+/*    			background-color: dodgerblue;
+    		}*/
+    		img {
+    			width:285px;
+    		}
+
+/*			 class selector 
+			.content, .contact-me{
+				background-color:white;
+				width: 750px;
+				margin:-25px auto;
+				padding:25px;
+				border-radius:20px;
+				box-shadow:10px 10px 10px black;
+			}
+
+			.contact-me{
+				margin:65px auto;
+			}
+			
+			h1{
+				text-align:center;
+			}
+	
+			/*descendant selector*/
+/*			.content h1{
+				color:red;
+			}
+			
+			.contact-me h1{
+				color:green;
+			}
+
+			.specificity-class{
+				color:blanchedalmond;
+			}
+	</head>*/*/

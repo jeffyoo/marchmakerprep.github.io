@@ -1,0 +1,18 @@
+body {
+  background-color: lightblue;
+}
+
+
+/*descendant selector*/
+
+.lyft-info img {
+  width: 285px;
+}
+.home-page-jumbotron{
+	background-color:tomato;
+	position: relative;
+	top: 51px;
+	height: 750px;
+	background-image: url("https://wallpaperscraft.com/image/space_sky_stars_79233_1920x1080.jpg");
+	color: white;
+}
